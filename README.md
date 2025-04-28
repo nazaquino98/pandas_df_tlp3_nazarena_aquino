@@ -24,10 +24,8 @@ git clone https://github.com/nazaquino98/pandas_df_tlp3_nazarena_aquino.git
 
 Asegurate de tener Python 3 instalado en tu sistema.
 
-Instala las dependencias necesarias (en este caso, Pandas):
+Abri el proyecto en tu editor.
 
-pip install pandas
-
-Abre el proyecto en tu editor.
+Instala las dependencias necesarias (en este caso, Pandas): pip install pandas
 
 Ejecuta el archivo principal.
